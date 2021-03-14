@@ -1,0 +1,12 @@
+"root", 15, 50
+"admin", 16, 59
+"test", 15, 70
+"guest", 16, 80
+"adam", 15, 85
+"mysql", 18, 89
+"user", 15, 40
+"administrator", 17, 45
+"oracle", 15, 95
+"puppet", 15, 35
+"ansible", 15, 0
+"flag", 15, 93
